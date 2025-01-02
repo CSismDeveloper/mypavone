@@ -11,7 +11,7 @@
     <link rel="apple-touch-icon" href="assets/img/icon.png">
 
     <!-- Title -->
-    <title></title>
+    <title>Mypavone</title>
 
     <!-- ************************* CSS Files ************************* -->
 
